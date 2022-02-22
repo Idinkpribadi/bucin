@@ -1,0 +1,2 @@
+# bucin
+Hanya sekedar edukasi
